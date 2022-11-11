@@ -3,6 +3,3 @@
 
 ## Hardware
 
-![hardware diagrams](./imgs/hardware.png)
-
-
